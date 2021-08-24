@@ -1,0 +1,57 @@
+F:\Mobile Shop Management\bin\Debug\Mobile Shop Management.exe.config
+F:\Mobile Shop Management\bin\Debug\Mobile Shop Management.exe
+F:\Mobile Shop Management\bin\Debug\Mobile Shop Management.pdb
+F:\Mobile Shop Management\bin\Debug\Guna.UI2.dll
+F:\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.AssemblyReference.cache
+F:\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.AddNewPhoneRecordUserControl.resources
+F:\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.Form1.resources
+F:\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.Properties.Resources.resources
+F:\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.GenerateResource.cache
+F:\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.CoreCompileInputs.cache
+F:\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.CopyComplete
+F:\Mobile Shop Management\obj\Debug\Mobile Shop Management.exe
+F:\Mobile Shop Management\obj\Debug\Mobile Shop Management.pdb
+F:\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlStock.resources
+F:\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlCustomerRecord.resources
+F:\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlCustomer.resources
+F:\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlDeletePhoneRecord.resources
+F:\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlLogin.resources
+F:\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlAddEmployee.resources
+F:\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControl1EmployeeRecords.resources
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.AssemblyReference.cache
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.AddNewPhoneRecordUserControl.resources
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControl1EmployeeRecords.resources
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlAddEmployee.resources
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlCustomer.resources
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlCustomerRecord.resources
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlDeletePhoneRecord.resources
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlStock.resources
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.Form1.resources
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.Properties.Resources.resources
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.GenerateResource.cache
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.CoreCompileInputs.cache
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.exe
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.pdb
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\bin\Debug\Mobile Shop Management.exe.config
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\bin\Debug\Mobile Shop Management.exe
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\bin\Debug\Mobile Shop Management.pdb
+C:\Users\zarin\OneDrive\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.CopyComplete
+C:\Users\User\Desktop\Mobile Shop Management\bin\Debug\Mobile Shop Management.exe.config
+C:\Users\User\Desktop\Mobile Shop Management\bin\Debug\Mobile Shop Management.exe
+C:\Users\User\Desktop\Mobile Shop Management\bin\Debug\Mobile Shop Management.pdb
+C:\Users\User\Desktop\Mobile Shop Management\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.AddNewPhoneRecordUserControl.resources
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControl1EmployeeRecords.resources
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlAddEmployee.resources
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlCustomer.resources
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlCustomerRecord.resources
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlDeletePhoneRecord.resources
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.AllUserControl.UserControlStock.resources
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.Properties.Resources.resources
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.CopyComplete
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.exe
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile Shop Management.pdb
+C:\Users\User\Desktop\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.Form1.resources
