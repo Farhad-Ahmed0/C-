@@ -1,0 +1,7 @@
+C:\C#\Assingment\Assingment\bin\Debug\Assingment.exe.config
+C:\C#\Assingment\Assingment\bin\Debug\Assingment.exe
+C:\C#\Assingment\Assingment\bin\Debug\Assingment.pdb
+C:\C#\Assingment\Assingment\obj\Debug\Assingment.csproj.AssemblyReference.cache
+C:\C#\Assingment\Assingment\obj\Debug\Assingment.csproj.CoreCompileInputs.cache
+C:\C#\Assingment\Assingment\obj\Debug\Assingment.exe
+C:\C#\Assingment\Assingment\obj\Debug\Assingment.pdb
